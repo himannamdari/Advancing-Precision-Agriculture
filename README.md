@@ -21,8 +21,11 @@ Namdari, H., Moradikia, M., Askari, R., Mangoubi, O., & Petkie, D. (2024).
 Authorea Preprints. https://doi.org/10.22541/au.171261360.20425891/v1
 
 ## 📬 Contact
-Himan Namdari – hnamdari@wpi.edu  
+Himan Namdari – himan.namdari@gmail.com 
 Worcester Polytechnic Institute (WPI)
+
+## Data and code:
+You can find the simulated data and codes using this link: https://drive.google.com/drive/folders/1ZuLlUgzJo1qCWmbCf-WH--RNoY9radmd?usp=sharing
 
 ## 🛡️ Funding Acknowledgment
 This work was supported by the USDA under Grant No. USDA NR223A750013G032.
